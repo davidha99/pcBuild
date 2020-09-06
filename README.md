@@ -6,9 +6,9 @@ En este link vamos a ver...
 
 ## GPU
 ````
-Quote
-Reddit Usuario
+REddit User: "A mi me salió bien"
 ````
+
 ## Motherboard
 
 ## Storage
