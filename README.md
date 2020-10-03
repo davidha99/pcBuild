@@ -14,6 +14,10 @@ In this web [article](https://www.howtogeek.com/215940/why-are-newer-generations
 ## GPU
 
 ## Motherboard
+###### Intel
+In this [article](https://levvvel.com/z490-motherboard-list/) you will find anything related to the new intel's 400 series mobos. As well as any characteristic EVERY mobo has, for example the SATA, M.V, PCIe, etc...
+
+###### AMD 
 
 ## Storage
 
