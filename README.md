@@ -34,6 +34,12 @@ Want to know if you newer-fancy RAM is actually utilizing all his power? In this
 
 ## Power Supply
 
+## Cooling
+###### Fan Cooling
+> When overclocking, the VOLTAGE can significantly raise the temperature. If you carefully tweak the CPU settings a **good air cooler** may give you acceptable cooling below 80degC at the maximum overclock. You may have to reduce the clock speed by say 4.4GHz vs 4.6GHz (max Turbo) however the real-world impact is relatively small. - forum guy
+
+
+
 ## Monitor 
 ###### Monitors for Editing
 In this [Reddit](https://www.reddit.com/r/VideoEditing/comments/j40z19/if_you_had_400_to_spend_on_a_monitor_for_editing/) discussion, people recomend a monitor with a good color spectrum, which is typycally needed for accurrate color grading. (or at least that's what I think)
