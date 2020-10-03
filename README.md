@@ -23,3 +23,11 @@ Want to know if you newer-fancy RAM is actually utilizing all his power? In this
 
 
 ## Power Supply
+
+# Softwares, Games, etc...
+## AfterEffects
+> Right now the majority of calculations for AE are done with CPU. They're working on getting certain effects running on GPU, but for right now it's only for a few things. The main thing inside AE that uses cuda is the very obsolete raytrace renderer, so don't bother getting a beefy GPU for that. So unless you are running a lot of GPU powered effects (like E3D) the main focus should be CPU right now.
+
+
+
+
