@@ -18,5 +18,8 @@ In this web [article](https://www.howtogeek.com/215940/why-are-newer-generations
 ## Storage
 
 ## RAM
+###### Post-instalation 
+Want to know if you newer-fancy RAM is actually utilizing all his power? In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-computer-ram-memory-after-ve-installed-it-2017/) you will be guided into activating some options at the BIOS to get your memory working 100% efficient.
+
 
 ## Power Supply
