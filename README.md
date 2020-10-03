@@ -24,11 +24,13 @@ Want to know if you newer-fancy RAM is actually utilizing all his power? In this
 
 ## Power Supply
 
-# Softwares, Games, etc...
+# Softwares, Games, Benchmarking softwares, etc...
 ## AfterEffects
 Is AfterEffects more CPU or GPU based?
 > Right now the majority of calculations for AE are done with CPU. They're working on getting certain effects running on GPU, but for right now it's only for a few things. The main thing inside AE that uses cuda is the very obsolete raytrace renderer, so don't bother getting a beefy GPU for that. So unless you are running a lot of GPU powered effects (like E3D) the main focus should be CPU right now. -redditor
-
+## Benchmarking softwares
+Want to know if your rig is well enough for editing, office working, or simple tasking? 
+[Here](https://benchmarks.ul.com/resources/what-is-a-good-pcmark-10-score) you will get the needed benchmark score for your PC for doing editing, simple tasks and office working, also you will get a guide on how self benchmark your PC to get the score and the compare it with standards.
 
 
 
