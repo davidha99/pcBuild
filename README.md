@@ -11,6 +11,12 @@ In this web [article](https://www.howtogeek.com/215940/why-are-newer-generations
 ###### CPU possible PROBLEMS
 
 [Here](https://steamcommunity.com/discussions/forum/11/1638669204740559442/) its a solution for the **problem** _"Some AMD B450 chipset motherboards may need a BIOS update prior to using Matisse CPUs. Upgrading the BIOS may require a different CPU that is supported by older BIOS revisions."_
+
+###### CPU Overcl@cking
+If I overclock my CPU how long will it last?
+
+In this [forum](https://forums.tomshardware.com/threads/if-i-overclock-my-cpu-how-long-will-it-last.2802893/) you will find numerous advices and experiences form overclocking users, that discuss several factors that determine CPU's lives.
+
 ## GPU
 
 ## Motherboard
