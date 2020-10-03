@@ -28,6 +28,11 @@ Want to know if you newer-fancy RAM is actually utilizing all his power? In this
 
 ## Power Supply
 
+## Monitor 
+> I’m a fan of the ProArt series by Asus. Their $300 27” 2k monitor is supposed to be really color accurate for the price range. Obviously it’s not HDR or P3 but I’m pretty sure it’s ~1.5 delta ranges for all of sRGB.
+It also has an amazing monitor stand for the price range too. Not something people usually think about for monitors.
+Edit: it also has Rec. 709 (but I’m not too familiar with that color profile) and the 24” 1080p one is less than $200 and 16:10
+
 # Softwares, Games, Benchmarking softwares, etc...
 ## AfterEffects
 Is AfterEffects more CPU or GPU based?
