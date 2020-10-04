@@ -26,7 +26,6 @@ In this [article](https://levvvel.com/z490-motherboard-list/) you will find anyt
 ###### AMD 
 
 ## Storage
-
 ## RAM
 ###### Post-instalation 
 Want to know if you newer-fancy RAM is actually utilizing all his power? In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-computer-ram-memory-after-ve-installed-it-2017/) you will be guided into activating some options at the BIOS to get your memory working 100% efficient.
@@ -37,6 +36,8 @@ Want to know if you newer-fancy RAM is actually utilizing all his power? In this
 ## Cooling
 ###### Fan Cooling
 > When overclocking, the VOLTAGE can significantly raise the temperature. If you carefully tweak the CPU settings a **good air cooler** may give you acceptable cooling below 80degC at the maximum overclock. You may have to reduce the clock speed by say 4.4GHz vs 4.6GHz (max Turbo) however the real-world impact is relatively small. - forum guy
+
+## Case
 
 
 
