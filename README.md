@@ -38,7 +38,7 @@ Want to know if you newer-fancy RAM is actually utilizing all his power? In this
 > When overclocking, the VOLTAGE can significantly raise the temperature. If you carefully tweak the CPU settings a **good air cooler** may give you acceptable cooling below 80degC at the maximum overclock. You may have to reduce the clock speed by say 4.4GHz vs 4.6GHz (max Turbo) however the real-world impact is relatively small. - forum guy
 
 ## Case
-
+Here at there is JayTwoCents 
 
 
 ## Monitor 
