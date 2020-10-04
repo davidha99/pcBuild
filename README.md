@@ -56,5 +56,8 @@ Is AfterEffects more CPU or GPU based?
 Want to know if your rig is well enough for editing, office working, or simple tasking? 
 [Here](https://benchmarks.ul.com/resources/what-is-a-good-pcmark-10-score) you will get the needed benchmark score for your PC for doing editing, simple tasks and office working, also you will get a guide on how self benchmark your PC to get the score and the compare it with standards.
 
+# Maintenance
+In this [article](https://www.makeuseof.com/tag/5-pc-parts-tend-die-extend-lifespans/) you will find the 5 main PC components that tend to die, and how to increase their lifespan.
+
 
 
