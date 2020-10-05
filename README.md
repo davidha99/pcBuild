@@ -30,7 +30,7 @@ In this [article](https://levvvel.com/z490-motherboard-list/) you will find anyt
 ###### Post-instalation 
 Want to know if you newer-fancy RAM is actually utilizing all his power? In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-computer-ram-memory-after-ve-installed-it-2017/) you will be guided into activating some options at the BIOS to get your memory working 100% efficient.
 ###### Why does having a really really high-speed RAM is actually really damn good for Ryzen processors?
-I this [reddit](https://www.reddit.com/r/explainlikeimfive/comments/6iwt75/eli5how_does_the_infinity_fabric_work/)r/explainmelikeimfive redditors explain Ryzen's **Infinity Clock**(_IF_) architecture. You will learn how it is deeply connected to RAM, and why having fast RAM gives your CPU faster comms speeds.  
+I this [r/explainmelikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/6iwt75/eli5how_does_the_infinity_fabric_work/) post, redditors explain Ryzen's **Infinity Clock**(_IF_) architecture. You will learn how it is deeply connected to RAM, and why having fast RAM gives your CPU faster comms speeds.  
 
 
 
