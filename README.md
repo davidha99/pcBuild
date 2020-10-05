@@ -26,7 +26,7 @@ In this [forum](https://forums.tomshardware.com/threads/if-i-overclock-my-cpu-ho
 ###### RAM for Intel. 
 In this HardWarSfera's [video](https://www.youtube.com/watch?v=yZ2yKz0G6gA&ab_channel=HardwarEsfera) the guy features a 3200 _MHz_ RAM for the BUILD, **but** if you check **video's comment section**, you will find out that for that generation of intel(10th) RAM speed it's limited at 2933 _MHz_, and some comment recomendations for improving the build as well.
 
-Edit: This is my PCPartPicker build with the actuall _improvements_ that the video's coment section feature.
+Edit: Look down below at the subheader "BUILDS" for my "Delta" build. In which you will find a PCaPartPicker built with the actuall _improvements_ that the video's comment section feature.
 
 ###### Post-instalation 
 Want to know if you newer-fancy RAM is actually utilizing all his power? In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-computer-ram-memory-after-ve-installed-it-2017/) you will be guided into activating some options at the BIOS to get your memory working 100% efficient.
@@ -72,8 +72,16 @@ Is AfterEffects more CPU or GPU based?
 Want to know if your rig is well enough for editing, office working, or simple tasking? 
 [Here](https://benchmarks.ul.com/resources/what-is-a-good-pcmark-10-score) you will get the needed benchmark score for your PC for doing editing, simple tasks and office working, also you will get a guide on how self benchmark your PC to get the score and the compare it with standards.
 
-# Maintenance
+## Maintenance
 In this [article](https://www.makeuseof.com/tag/5-pc-parts-tend-die-extend-lifespans/) you will find the 5 main PC components that tend to die, and how to increase their lifespan.
+
+## BUILDS
+_Here you will find concrete builds for specific tasks. This also features youtuber builts as well as builts I made by combining reddit/youtubecomment/youtuber ones. I didnt included a description of them, because the PCPartPicker web features an specific section for that, also because at the subheaders above you will find some info that redirectionate to these builds, so I found un-usefull to repeat the info again_
+###### alpha
+###### beta
+###### charlie
+###### 
+
 
 
 
