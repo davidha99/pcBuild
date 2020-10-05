@@ -26,7 +26,7 @@ In this [forum](https://forums.tomshardware.com/threads/if-i-overclock-my-cpu-ho
 ###### RAM for Intel. 
 In this HardWarSfera's [video](https://www.youtube.com/watch?v=yZ2yKz0G6gA&ab_channel=HardwarEsfera) the guy features a 3200 _MHz_ RAM for the BUILD, **but** if you check **video's comment section**, you will find out that for that generation of intel(10th) RAM speed it's limited at 2933 _MHz_, and some comment recomendations for improving the build as well.
 
-Edit: This is my PCPartPicker build with the actuall comment implementations of the video.
+Edit: This is my PCPartPicker build with the actuall _improvements_ that the video's coment section feature.
 
 ###### Post-instalation 
 Want to know if you newer-fancy RAM is actually utilizing all his power? In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-computer-ram-memory-after-ve-installed-it-2017/) you will be guided into activating some options at the BIOS to get your memory working 100% efficient.
