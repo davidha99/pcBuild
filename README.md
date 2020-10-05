@@ -9,7 +9,7 @@ Not sure of buying a AMD's 3000 series or Intel's 9000s, here [4:21](https://www
 - In this [video](https://www.youtube.com/watch?v=lswfgka1HnQ&ab_channel=HardwarEsfera) you will find a hard explanation about the new 3000 series processor's architecture and how it is deeply connected with RAM, emphasizing that the new series of processors that supports more than 8 cores (3600x not included) despite than linked with a RAM with 3200Mhz of "_Real bandwith_", it will only feature 1600Mhz of _"Efective bandwith"_.
 
 ###### Why a new-gen CPU is better than an old-gen CPU?
-In this web [article](https://www.howtogeek.com/215940/why-are-newer-generations-of-processors-faster-at-the-same-clock-speed/) they explain why newer CPUs are better than older ones, even with same clocks.
+- In this web [article](https://www.howtogeek.com/215940/why-are-newer-generations-of-processors-faster-at-the-same-clock-speed/) they explain why newer CPUs are better than older ones, even with same clocks.
 > I had a 1800X OCd to 4.025Ghz and while is a very capable CPU the 3600 has a similar MT score, a little lower at stock compared to mine but I'm sure you can match it after some mild OC. Single thread wise the 3600 is much better than the 1800X. -redditor
 
 ###### CPU possible PROBLEMS
