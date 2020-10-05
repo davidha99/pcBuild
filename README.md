@@ -5,7 +5,8 @@
 ###### CPU Reviews
 Not sure of buying a AMD's 3000 series or Intel's 9000s, here [4:21](https://www.youtube.com/watch?v=stM2CPF9YAY&list=WL&index=5&t=4s&ab_channel=LinusTechTips#t=4m21s) they have a good comparision between them. 
 ###### AMD's Ryzen architecture
-In this [video](https://www.youtube.com/watch?v=lswfgka1HnQ&ab_channel=HardwarEsfera) you will find a hard explanation about the new 3000 series processorsors architecture and how it is deeply connected with RAM, emphasizing that the new series of processors that supports more than 8 cores (3600x not included) despite than linked with a RAM with 3200Mhz of "_Real bandwith_", it will only feature 1600Mhz of _"Efective bandwith"_.
+-I this [r/explainmelikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/6iwt75/eli5how_does_the_infinity_fabric_work/) post, redditors explain Ryzen's **Infinity Clock**(_IF_) architecture. You will learn how it is deeply connected to RAM. 
+-In this [video](https://www.youtube.com/watch?v=lswfgka1HnQ&ab_channel=HardwarEsfera) you will find a hard explanation about the new 3000 series processor's architecture and how it is deeply connected with RAM, emphasizing that the new series of processors that supports more than 8 cores (3600x not included) despite than linked with a RAM with 3200Mhz of "_Real bandwith_", it will only feature 1600Mhz of _"Efective bandwith"_.
 
 ###### Why a new-gen CPU is better than an old-gen CPU?
 In this web [article](https://www.howtogeek.com/215940/why-are-newer-generations-of-processors-faster-at-the-same-clock-speed/) they explain why newer CPUs are better than older ones, even with same clocks.
@@ -29,11 +30,13 @@ In this [article](https://levvvel.com/z490-motherboard-list/) you will find anyt
 ###### AMD 
 
 ## Storage
-## RAM
+###### RAM for AMD.
+###### RAM for Intel. 
+In this HardWarSfera's [video](https://www.youtube.com/watch?v=yZ2yKz0G6gA&ab_channel=HardwarEsfera) the guy features a 3200 _MHz_ RAM for the BUILD, **but** if you check **video's comment section**, you will find out that for that generation of intel(10th) RAM speed it's limited at 2933 _MHz_.
+
 ###### Post-instalation 
 Want to know if you newer-fancy RAM is actually utilizing all his power? In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-computer-ram-memory-after-ve-installed-it-2017/) you will be guided into activating some options at the BIOS to get your memory working 100% efficient.
-###### Why does having a really really high-speed RAM is actually really damn good for Ryzen processors?
-I this [r/explainmelikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/6iwt75/eli5how_does_the_infinity_fabric_work/) post, redditors explain Ryzen's **Infinity Clock**(_IF_) architecture. You will learn how it is deeply connected to RAM, and why having fast RAM gives your CPU faster comms speeds.  
+
 
 
 
