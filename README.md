@@ -55,7 +55,9 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 
 ## Cooling
 ###### Fan Cooling
-> When overclocking, the VOLTAGE can significantly raise the temperature. If you carefully tweak the CPU settings, a **good air cooler** may give you acceptable cooling below 80degC at maximum overclock speeds. Also, you may have to reduce the clock speed by say 4.4GHz vs 4.6GHz(max Turbo), dont worry, despite the 2MHz decreased, the real-world impact on it will be relatively small. - forum guy
+###### Liquid Cooling
+
+
 
 ## Case
 - This is JayTwoCent's MicroATX extreme air-flow case recomendation
@@ -89,7 +91,9 @@ Want to know if your rig is well enough for editing, office working, or simple t
 [Here](https://benchmarks.ul.com/resources/what-is-a-good-pcmark-10-score) you will get the needed benchmark score for your PC for doing editing, simple tasks and office working, also you will get a guide on how self benchmark your PC to get the score and the compare it with standards.
 
 ## Maintenance
-In this [article](https://www.makeuseof.com/tag/5-pc-parts-tend-die-extend-lifespans/) you will find the 5 main PC components that tend to die, and how to increase their lifespan.
+- In this [article](https://www.makeuseof.com/tag/5-pc-parts-tend-die-extend-lifespans/) you will find the 5 main PC components that tend to die, and how to increase their lifespan.
+- Why is it important, to have a good air cooler?
+> When overclocking, the VOLTAGE can significantly raise the temperature. If you carefully tweak the CPU settings, a **good air cooler** may give you acceptable cooling below 80degC at maximum overclock speeds. Also, you may have to reduce the clock speed by say 4.4GHz vs 4.6GHz(max Turbo), dont worry, despite the 2MHz decreased, the real-world impact on it will be relatively small. - forum guy
 
 ## BUILDS
 _Here you will find concrete builds for specific tasks. This also features youtuber builts as well as builts I made by combining reddit/youtubecomment/youtuber ones. I didnt included a description of them, because the PCPartPicker web features an specific section for that, also because at the subheaders above you will find some info that redirectionate to these builds, so I found un-usefull to repeat the info again_
