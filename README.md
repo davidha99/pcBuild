@@ -52,7 +52,9 @@ In this [article](https://levvvel.com/z490-motherboard-list/) you will find anyt
 > When overclocking, the VOLTAGE can significantly raise the temperature. If you carefully tweak the CPU settings a **good air cooler** may give you acceptable cooling below 80degC at the maximum overclock. You may have to reduce the clock speed by say 4.4GHz vs 4.6GHz (max Turbo) however the real-world impact is relatively small. - forum guy
 
 ## Case
-This is JayTwoCent's extreme air-flow case recomendation [![video](http://img.youtube.com/vi/Lfxuqjt38dA/0.jpg)](http://www.youtube.com/watch?v=Lfxuqjt38dA "video") JayTw
+This is JayTwoCent's MicroATX extreme air-flow case recomendation
+
+[![video](http://img.youtube.com/vi/Lfxuqjt38dA/0.jpg)](http://www.youtube.com/watch?v=Lfxuqjt38dA "video") 
 
 
 
@@ -64,11 +66,11 @@ In this [Reddit](https://www.reddit.com/r/VideoEditing/comments/j40z19/if_you_ha
 It also has an amazing monitor stand for the price range too. Not something people usually think about for monitors.
 Edit: it also has Rec. 709 (but I’m not too familiar with that color profile) and the 24” 1080p one is less than $200 and 16:10 - redditor
 
-# Softwares, Games, Benchmarking softwares, etc...
-## AfterEffects
+## Softwares, Games, Benchmarking softwares, etc...
+###### AfterEffects
 Is AfterEffects more CPU or GPU based?
 > Right now the majority of calculations for AE are done with CPU. They're working on getting certain effects running on GPU, but for right now it's only for a few things. The main thing inside AE that uses cuda is the very obsolete raytrace renderer, so don't bother getting a beefy GPU for that. So unless you are running a lot of GPU powered effects (like E3D) the main focus should be CPU right now. -redditor
-## Benchmarking softwares
+###### Benchmarking softwares
 Want to know if your rig is well enough for editing, office working, or simple tasking? 
 [Here](https://benchmarks.ul.com/resources/what-is-a-good-pcmark-10-score) you will get the needed benchmark score for your PC for doing editing, simple tasks and office working, also you will get a guide on how self benchmark your PC to get the score and the compare it with standards.
 
@@ -80,7 +82,7 @@ _Here you will find concrete builds for specific tasks. This also features youtu
 ###### alpha
 ###### beta
 ###### charlie
-###### 
+###### Delta
 
 
 
