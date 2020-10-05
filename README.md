@@ -67,6 +67,13 @@ It also has an amazing monitor stand for the price range too. Not something peop
 Edit: it also has Rec. 709 (but I’m not too familiar with that color profile) and the 24” 1080p one is less than $200 and 16:10 - redditor
 
 ## Softwares, Games, Benchmarking softwares, etc...
+###### Games 
+- Why Far Cry 5 uses a lot of the CPU? 
+
+In this steam [forum](https://steamcommunity.com/app/552520/discussions/0/3211505894137235415/) you will find out why generally ubisofts games are really CPU bounded.
+
+> This game is really cpu bound man. Pretty much any of the recent ubisoft games are pretty cpu intensive. Doesn't mean the games aren't optimized like most people would tell you. I used to have a 4690k@4.6ghz, and games like Wildlands, Watch Dogs 2, and Division would have all 4 cores pegged at 100% more than half the time creating a bottleneck for my 1080. I upgraded to a 8700k@4.8ghz with DDR4@3200mhz(old ram was ddr3@1600mhz), and my fps went from dropping down to 30's to dropping down to 80's. My 8700k averages around 40% on the same areas the 4690k was getting 100%. My advice is to upgrade your Mobo, CPU, and Ram to handle this game better. - BrainyCabde
+
 ###### AfterEffects
 Is AfterEffects more CPU or GPU based?
 > Right now the majority of calculations for AE are done with CPU. They're working on getting certain effects running on GPU, but for right now it's only for a few things. The main thing inside AE that uses cuda is the very obsolete raytrace renderer, so don't bother getting a beefy GPU for that. So unless you are running a lot of GPU powered effects (like E3D) the main focus should be CPU right now. -redditor
@@ -82,7 +89,7 @@ _Here you will find concrete builds for specific tasks. This also features youtu
 ###### alpha
 ###### beta
 ###### charlie
-###### Delta
+###### delta
 
 
 
