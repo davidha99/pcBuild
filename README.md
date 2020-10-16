@@ -68,12 +68,7 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 
 ## Monitor 
 ###### The very basic guidelines for monitor buying.
-
-| \ | TN | VA | IPS |
-| --- | --- | | --- | | --- |
-| Performance | bllllll | blllllll | asdasd |
-| Display | bllllll | blllllll | asdasd |
-| Pricing | bllllll | blllllll | asdasd |
+[![Screen-Shot-2020-10-16-at-1-55-44-PM.png](https://i.postimg.cc/BbqNGTxN/Screen-Shot-2020-10-16-at-1-55-44-PM.png)](https://postimg.cc/vgN5r626)
 
 ###### Monitors for Editing
 - what would you get if you had $400 to spend on a monitor for editing
