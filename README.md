@@ -87,9 +87,20 @@ In [**this reddit post**](https://www.reddit.com/r/buildapc/comments/92mb7r/upda
 - Want to inquire a little bit more into monitor's panels?
 In this [HowToGeek article](https://www.howtogeek.com/658701/tn-vs.-ips-vs.-va-whats-the-best-display-panel-technology/) you'll have a pretty good research dedicated only for monitor's panels.
 
+###### Monitors for Gaming
+- Motion blur AKA "Ghosting" effect.
+[Here](https://levvvel.com/monitor-ghosting-fix/#:~:text=Simply%20said%20monitor%20ghosting%20is,%E2%80%9Cghosts%E2%80%9D%20behind%20moving%20objects.&text=This%20is%20because%20when%20the,image%20effect%20on%20the%20display.) is pretty detailed guide into ghosting, what exactly it is, causes, etc...
+
+- Motion blur reduction in monitors?
+
+In this [web article](https://blurbusters.com/faq/motion-blur-reduction/) you'll find comparissons and information about blur reduction in monitors.
+
+- Want to test your monitor for ghosting?
+[This](https://www.testufo.com/ghosting) site is currently used for testing.
+
 
 ###### Monitors for Editing
-- what would you get if you had $400 to spend on a monitor for editing
+- What would you get if you had $400 to spend on a monitor for editing?
 
 In this [Reddit](https://www.reddit.com/r/VideoEditing/comments/j40z19/if_you_had_400_to_spend_on_a_monitor_for_editing/) discussion, people recomend a monitor with a good color spectrum, which is typycally needed for accurrate color grading. (or at least that's what I think)
 > I’m a fan of the ProArt series by Asus. Their $300 27” 2k monitor is supposed to be really color accurate for the price range. Obviously it’s not HDR or P3 but I’m pretty sure it’s ~1.5 delta ranges for all of sRGB.
@@ -98,6 +109,7 @@ Edit: it also has Rec. 709 (but I’m not too familiar with that color profile) 
 
 ###### Helpfull sites.
 ~ [TFT CENTRAL](https://www.tftcentral.co.uk/reviews.htm) for solid/pro monitor reviews
+
 ~ [Hardware Unboxed](https://www.youtube.com/c/Hardwareunboxednow/featured) youtube channel, for the best/pro reviews in the youtube area.
 
 ## Softwares, Games, Benchmarking softwares, etc...
