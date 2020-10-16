@@ -68,11 +68,14 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 
 ## Monitor 
 ###### The very basic guidelines for monitor buying.
-[![Screen-Shot-2020-10-16-at-1-55-44-PM.png](https://i.postimg.cc/SR65Dkc5/Screen-Shot-2020-10-16-at-1-55-44-PM.png)](https://postimg.cc/BPvMvWYc)
+[![Screen-Shot-2020-10-16-at-1-55-44-PM.png](https://i.postimg.cc/nzbfkd6X/Screen-Shot-2020-10-16-at-1-55-44-PM.png)](https://postimg.cc/06f45C5v)
 
 _Its necessary to remind that the most basic thing in monitors its their panels, above you'll find just related info about panels_
 
 [![Hq0GktS.jpg](https://i.postimg.cc/WzVj29nB/Hq0GktS.jpg)](https://postimg.cc/S2gHdfHd)
+
+_A side-by-side comparisson into monitor's looks_
+
 
 
 ###### Complete guide of monitor picking.
