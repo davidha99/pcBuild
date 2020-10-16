@@ -72,7 +72,8 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 
 _Its necessary to remind that the most basic thing in monitors its their panels, above you'll find just related info about panels_
 
-[![Hq0GktS.jpg](https://i.postimg.[Hq0GktS.jpg](https://postimg.cc/K1dGrxtj)cc/YSNWrPf7/Hq0GktS.jpg)](https://postimg.cc/kV44wfpY)
+[![Hq0GktS.jpg](https://i.postimg.cc/WzVj29nB/Hq0GktS.jpg)](https://postimg.cc/S2gHdfHd)
+
 
 ###### Complete guide of monitor picking.
 In [**this reddit post**](https://www.reddit.com/r/buildapc/comments/92mb7r/updated_monitor_buying_guide/), you will find an _updated_ complete guide for picking your monitor. It includes an easy step-by-step process in which firstly you'll have to determine your monitor's purpose (editing, artwork, gaming, etc...), then **of course** you'll be provided by a more detailed information about _**monitor panels**_, and a lot more information relevant about the topic
