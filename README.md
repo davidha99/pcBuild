@@ -69,7 +69,7 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 ## Monitor 
 ###### The very basic guidelines for monitor buying.
 
-| | TN | VA | IPS |
+| \ | TN | VA | IPS |
 | :---: | ---: |
 | Performance | bllllll | blllllll | asdasd |
 | Display | bllllll | blllllll | asdasd |
