@@ -82,11 +82,9 @@ _A side-by-side comparisson into monitor's looks_
 In [**this reddit post**](https://www.reddit.com/r/buildapc/comments/92mb7r/updated_monitor_buying_guide/), you will find an _updated_ complete guide for picking your monitor. It includes an easy step-by-step process in which firstly you'll have to determine your monitor's purpose (editing, artwork, gaming, etc...), then **of course** you'll be provided by a more detailed information about _**monitor panels**_, and a lot more information relevant about the topic
 
 - You don't trust reddit or maybe you want more info about?
-
 [Here](https://www.tomshardware.com/reviews/monitor-buying-guide,5699.html#:~:text=Determine%20your%20monitor's%20main%20purpose,a%20high%2Dcontrast%20VA%20panel.) you'll find also a pretty solid guide. (Maybe a little bit more complete)
 
 - Want to inquire a little bit more into monitor's panels?
-
 In this [HowToGeek article](https://www.howtogeek.com/658701/tn-vs.-ips-vs.-va-whats-the-best-display-panel-technology/) you'll have a pretty good research dedicated only for monitor's panels.
 
 ###### Monitors for Gaming
