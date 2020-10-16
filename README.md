@@ -69,9 +69,17 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 ## Monitor 
 ###### The very basic guidelines for monitor buying.
 [![Screen-Shot-2020-10-16-at-1-55-44-PM.png](https://i.postimg.cc/BbqNGTxN/Screen-Shot-2020-10-16-at-1-55-44-PM.png)](https://postimg.cc/vgN5r626)
+_Its necessary to remind that the most basic thing in monitors its their panels, above you'll find just related info about panels_
 
 ###### Complete guide of monitor picking.
-In [**this reddit post**](https://www.reddit.com/r/buildapc/comments/92mb7r/updated_monitor_buying_guide/), you will find an _updated_ complete guide for picking your monitor. It includes an easy step-by-step process in which firstly you'll have to determine your monitor's purpose (editing, artwork, gaming, etc...), then you'll be guided into some explanations and really helpfull info that you might need.
+In [**this reddit post**](https://www.reddit.com/r/buildapc/comments/92mb7r/updated_monitor_buying_guide/), you will find an _updated_ complete guide for picking your monitor. It includes an easy step-by-step process in which firstly you'll have to determine your monitor's purpose (editing, artwork, gaming, etc...), then **of course** you'll be provided by a more detailed information about _**monitor panels**_, and a lot more information relevant about the topic
+
+- You don't trust reddit or maybe you want more info about?
+[Here](https://www.tomshardware.com/reviews/monitor-buying-guide,5699.html#:~:text=Determine%20your%20monitor's%20main%20purpose,a%20high%2Dcontrast%20VA%20panel.) you'll find also a pretty solid guide. (Maybe a little bit more complete)
+
+- Want to inquire a little bit more into monitor's panels?
+In this [HowToGeek article](https://www.howtogeek.com/658701/tn-vs.-ips-vs.-va-whats-the-best-display-panel-technology/) you'll have a pretty good research dedicated only for monitor's panels.
+
 
 ###### Monitors for Editing
 - what would you get if you had $400 to spend on a monitor for editing
@@ -80,6 +88,10 @@ In this [Reddit](https://www.reddit.com/r/VideoEditing/comments/j40z19/if_you_ha
 > I’m a fan of the ProArt series by Asus. Their $300 27” 2k monitor is supposed to be really color accurate for the price range. Obviously it’s not HDR or P3 but I’m pretty sure it’s ~1.5 delta ranges for all of sRGB.
 It also has an amazing monitor stand for the price range too. Not something people usually think about for monitors.
 Edit: it also has Rec. 709 (but I’m not too familiar with that color profile) and the 24” 1080p one is less than $200 and 16:10 - redditor
+
+###### Helpfull sites.
+~ [TFT CENTRAL](https://www.tftcentral.co.uk/reviews.htm) for solid/pro monitor reviews
+~ [Hardware Unboxed](https://www.youtube.com/c/Hardwareunboxednow/featured) youtube channel, for the best/pro reviews in the youtube area.
 
 ## Softwares, Games, Benchmarking softwares, etc...
 ###### Games 
