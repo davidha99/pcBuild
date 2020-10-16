@@ -69,10 +69,11 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 ## Monitor 
 ###### The very basic guidelines for monitor buying.
 
-| Tabla | Algo Random |
+| | TN | VA | IPS |
 | :---: | ---: |
-| ```git```| No **significa** nada jajaj |
-| que habido | nada por aqui tampoco |
+| Performance | bllllll | blllllll | asdasd |
+| Display | bllllll | blllllll | asdasd |
+| Pricing | bllllll | blllllll | asdasd |
 
 ###### Monitors for Editing
 - what would you get if you had $400 to spend on a monitor for editing
