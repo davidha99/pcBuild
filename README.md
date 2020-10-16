@@ -68,8 +68,11 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 
 ## Monitor 
 ###### The very basic guidelines for monitor buying.
-[![Screen-Shot-2020-10-16-at-1-55-44-PM.png](https://i.postimg.cc/BbqNGTxN/Screen-Shot-2020-10-16-at-1-55-44-PM.png)](https://postimg.cc/vgN5r626)
+[![Screen-Shot-2020-10-16-at-1-55-44-PM.png](https://i.postimg.cc/SR65Dkc5/Screen-Shot-2020-10-16-at-1-55-44-PM.png)](https://postimg.cc/BPvMvWYc)
+
 _Its necessary to remind that the most basic thing in monitors its their panels, above you'll find just related info about panels_
+
+[![Hq0GktS.jpg](https://i.postimg.cc/YSNWrPf7/Hq0GktS.jpg)](https://postimg.cc/kV44wfpY)
 
 ###### Complete guide of monitor picking.
 In [**this reddit post**](https://www.reddit.com/r/buildapc/comments/92mb7r/updated_monitor_buying_guide/), you will find an _updated_ complete guide for picking your monitor. It includes an easy step-by-step process in which firstly you'll have to determine your monitor's purpose (editing, artwork, gaming, etc...), then **of course** you'll be provided by a more detailed information about _**monitor panels**_, and a lot more information relevant about the topic
