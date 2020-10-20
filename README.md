@@ -42,6 +42,29 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 
 
 ## GPU
+###### Does ultra graphic settigs actually make a difference over the high or very high ones?
+This is probably the most important thing when it comes to picking up a graphics card. Perhaps you should Be thinking "Ohh man I love how RDR2 looks in this video called ULTRA PC RTX 2080Ti ULTRA MAXXX RDR2 ULTRA HIGHHHHHHHHHH settings" Yeah, perhaps it looks really reallly good, but the good news is that also the very high configuration gives it stuning looks. And what is even better, an smart configuration of ultra, high, mid will give it a better boost in performance. A lot of the ultra settings the game features are just **unotisable** againts the high ones. If youre feeling skeptik about this, here I have at least 5 different sources of information that proves what I'm saying
+
+- This [article](https://www.gpucheck.com/article/ultra-vs-high-quality-settings) states the ultra vs high, concluding that going for the ultra is always ULTRA expensive and you'll probably just get a 5-10% overall improvement.
+
+- This [youtube video](https://www.youtube.com/watch?v=A8VrFUi79yo&ab_channel=DigitalFoundry) looks kind of an amateur view because he doesn't show super pro benchmarking, tho as you move on into the video you start to notice that this guy is testing every day life situations, like how ligh affects in ultra or mid, that kind of stuff that to the naked eye is really perceptible.
+
+- This is a more opinion-based [video](https://www.youtube.com/watch?v=d5ZsaavKNR8&ab_channel=2kliksphilip), tho the guy has a point, even consoles can play games at pretty quialities, so whatever you get beyond that is just BETTER. He also states that to really play 4k on stable 60fps, you'll litterary have to buy the BEST, so in most cases its just "Meh"
+
+- In this [reddit post](https://www.reddit.com/r/PCRedDead/comments/dwbzce/4k_mediumhigh_or_1440p_ultra/) people state their opinion on how even in titles like RDR2 a good settings configuration might help into getting a boost in frames. So definetly not worth having everything in ultra and having 20 fps...
+> I am thinking companies should start naming the ultra setting as the "sucker setting" as while some settings on ultra in games do show a clear visible difference, most do not and you need to compare in screenshots. - redditor.
+
+- Also, [here](https://www.reddit.com/r/nvidia/comments/7nmdts/is_ultra_really_worth_it_compared_to_high/) you have an nvidia post in reddit. People as well debate how different configurations are meant to serve an specific style of gamplay.
+> Depends on the game.
+
+Some games consider 8x AF as "Ultra" and 16x as some kind of custom Ultraer.
+
+In the past ultra was meant to be a bleeding edge/future proofing option. Most people weren't expected to be able to run anew game at ultra. As hardware advanced what was considered ultra became high, making the game age better. These days ultra is an arbitrary mix of any kind of shit that isn't always tested very well. - redditor.
+
+- 
+
+
+
 
 ## Motherboard
 
