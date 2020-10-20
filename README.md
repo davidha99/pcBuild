@@ -25,12 +25,15 @@ Here at min [4:21](https://www.youtube.com/watch?v=stM2CPF9YAY&list=WL&index=5&t
 
 In this [forum](https://forums.tomshardware.com/threads/if-i-overclock-my-cpu-how-long-will-it-last.2802893/) you will find numerous advices and experiences form overclocking users, that discuss several factors that determine CPU's lives.
 
-## Storage
-###### RAM for AMD.
-###### RAM for Intel. 
+## Memory 
+###### AMD.
+
+###### Intel. 
 - In this HardWarSfera's [video](https://www.youtube.com/watch?v=yZ2yKz0G6gA&ab_channel=HardwarEsfera) the guy features a 3200 _MHz_ RAM for the BUILD, **but** if you check **video's comment section**, you will find out that for that generation of intel(10th) RAM speed it's limited at 2933 _MHz_, and some comment recomendations for improving the build as well.
 
-Edit: Look down below at the subheader "BUILDS" for my "Delta" build. In which you will find a PCaPartPicker built with the actuall _improvements_ that the video's comment section feature.
+*Edit: Look down below at the subheader "BUILDS" for my "Delta" build. In which you will find a PCaPartPicker built with the actuall _improvements_ that the video's comment section feature.*
+
+- What is Intel's Optane memory? In this [article](https://www.pcworld.com/article/3191706/optane-memory-review-why-you-may-want-intels-futuristic-cache-in-your-pc.html?page=2) I didn't just find a fair explanation, but also a pretty damn good review, with benchmarks and conclusions. If you where wondering if it's worth using it, definetly it is.
 
 ###### Post-instalation 
 - Want to know if you newer-fancy RAM is actually utilizing all his power? 
@@ -41,6 +44,37 @@ In this [article](https://www.pcworld.idg.com.au/article/613203/how-set-up-new-c
 ## GPU
 
 ## Motherboard
+
+Before anything else, now you should wrap your head down to this, beacause we will start using hardship nomenclature. I suggest giving it a look to this [PcMag article](https://www.pcmag.com/news/buying-a-motherboard-20-terms-you-need-to-know) there you'll 20 things to know about a mobo. 
+
+###### The anatomy of a motherboard.
+Be carefull here because is hard to understand, tho, here you have a pretty good [article](https://www.gamersnexus.net/guides/1229-anatomy-of-a-motherboard-what-is-a-vrm-mosfet?showall=1) that explains every single part of a motherboard, covering how the VRM desing is the most important, as well as his components (MOSFETs, capacitors, Chokes). If you are a little bit more graphic-based guy, this [video](https://www.youtube.com/watch?v=TfPBRSGQMDE&app=desktop&ab_channel=GamersNexus) its actually an extention to the article (written by GamersNexus). I would recomend first reading the article so you can fully understand the video. 
+
+###### Naming a motherboard 
+[Here](https://www.youtube.com/watch?v=lCpH-ryKKhI&ab_channel=Techquickie) Linus gives a rapid break down to both Intel and AMD motherboard naming. It all comes down to the tier level of the mobo. Isn't that confusing. Tho, is kind of basic... In the video isn't explained how the last digits affect the mobo, for example what is the difeerence between a, Z390 and a Z370 or perhaps why some of them are named Z399? Huh???? Well, I found in this [article](https://www.pcworld.com/article/3268063/intel-motherboard-z370-vs-h370-vs-b360-vs-h310-8th-gen-cpu.html) a really good comparison between them, don't worry its only about the amount of features it has, such as WiFi, more USB and perhaps faster PCIe bandwith. It's worth giving it a look, but for a dayli basic mobo pick up, you probably wuould be more than cool with the Linu's one. 
+
+###### BIOS and UEFI 
+We know that the BIOS and UEFI are basically the only two firmware interfaces for computers that work as an interpreters between the operating system and the computer firmware. But, which one is better or what are the differences? In this [article](https://www.maketecheasier.com/differences-between-uefi-and-bios/) you can look the basics of both and which one should you use.
+
+###### Temperature  
+- What is a heathsink and how does it help in a mobo?
+In this [video](https://www.youtube.com/watch?v=tX2VKEesUiE&ab_channel=Techquickie) Linus explains as fast as possible what a heatsink is, where they are located (cpu, near the power supply, gpu, etc) as well as the most common ones, such as heat spreaders, passive pinned/finned, active and vaporchamber/heat pipe being the most expensive and effective type of heatsink.
+
+- What is the thermal paste and how good or bad ones affect the temperature?
+In this [PcMag](https://www.pcgamer.com/does-the-kind-of-thermal-paste-you-use-matter/#:~:text=The%20big%20question%20is%2C%20does,Short%20answer%2C%20yes.&text=Yet%20they%20don't%20transfer,computer%20in%20a%20hot%20environment.) article you'll find everything related to thermal pastes, as well stating that in short a short answere they indeed have an impact on your PC temperature, specially if you are an avid overclocker.
+
+###### RAID   
+- What the hell is RAID, and for what it is used for?
+[This](https://forums.tomshardware.com/threads/what-is-raid-support.3105966/) forum features a really basic explanation. But honestly IMO I don't think you'll need it. 
+
+> RAID is not a backup, it's a hardware redundancy so you can have a physical HDD failure, and still operate. -forum guy
+
+###### Sound 
+Probably when picking a motherboard you will see a dedicated slot for the audio chipset, when cheking benchmarks or reviews about audio you'll have a hard time figuring out what every single acronym stands for, here I inclded the explanantion to some of the most common ones:
+
+- [SNR](https://www.signalbooster.com/pages/what-is-signal-to-noise-ratio-snr)
+
+
 ###### Intel
 - In this [article](https://levvvel.com/z490-motherboard-list/) you will find anything related to the new intel's 400 series mobos. As well as any characteristic EVERY mobo has, for example the SATA, M.V, PCIe, etc...
 
