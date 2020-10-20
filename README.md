@@ -63,7 +63,7 @@ This is probably the most important thing when it comes to picking up a graphics
 
 ## Motherboard
 
-Before anything else, now you should wrap your head down to this, beacause we will start using hardship nomenclature. I suggest giving it a look to this [PcMag article](https://www.pcmag.com/news/buying-a-motherboard-20-terms-you-need-to-know) there you'll 20 things to know about a mobo. 
+Before anything else, now you should wrap your head down to this, beacause we will start using hardship nomenclature. I suggest giving it a look to this article [PcMag: 20 terms to know about a mobo](https://www.pcmag.com/news/buying-a-motherboard-20-terms-you-need-to-know). That will surely help a lot understand acronyms and nomencalture.
 
 ###### The anatomy of a motherboard.
 Be carefull here because is hard to understand, tho, here you have a pretty good [article](https://www.gamersnexus.net/guides/1229-anatomy-of-a-motherboard-what-is-a-vrm-mosfet?showall=1) that explains every single part of a motherboard, covering how the VRM desing is the most important, as well as his components (MOSFETs, capacitors, Chokes). If you are a little bit more graphic-based guy, this [video](https://www.youtube.com/watch?v=TfPBRSGQMDE&app=desktop&ab_channel=GamersNexus) its actually an extention to the article (written by GamersNexus). I would recomend first reading the article so you can fully understand the video. 
