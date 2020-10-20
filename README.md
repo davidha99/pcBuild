@@ -55,13 +55,8 @@ This is probably the most important thing when it comes to picking up a graphics
 > I am thinking companies should start naming the ultra setting as the "sucker setting" as while some settings on ultra in games do show a clear visible difference, most do not and you need to compare in screenshots. - redditor.
 
 - Also, [here](https://www.reddit.com/r/nvidia/comments/7nmdts/is_ultra_really_worth_it_compared_to_high/) you have an nvidia post in reddit. People as well debate how different configurations are meant to serve an specific style of gamplay.
-> Depends on the game.
+> Depends on the game. Some games consider 8x AF as "Ultra" and 16x as some kind of custom Ultraer.    In the past ultra was meant to be a bleeding edge/future proofing option. Most people weren't expected to be able to run anew game at ultra. As hardware advanced what was considered ultra became high, making the game age better. These days ultra is an arbitrary mix of any kind of shit that isn't always tested very well. - redditor.
 
-Some games consider 8x AF as "Ultra" and 16x as some kind of custom Ultraer.
-
-In the past ultra was meant to be a bleeding edge/future proofing option. Most people weren't expected to be able to run anew game at ultra. As hardware advanced what was considered ultra became high, making the game age better. These days ultra is an arbitrary mix of any kind of shit that isn't always tested very well. - redditor.
-
-- 
 
 
 
