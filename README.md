@@ -133,6 +133,12 @@ In this [web article](https://blurbusters.com/faq/motion-blur-reduction/) you'll
 
 
 ###### Monitors for Editing
+- What is the sRGB and why it's crucial in editing monitors?
+In this [article](https://techterms.com/definition/srgb#:~:text=Stands%20for%20%22Standard%20RGB%22%20(,programs%2C%20monitors%2C%20and%20printers.) you'll find a fair explanation of what sRGB stands, how its connected to your printer and how it differentiates fron Adobe RGB.
+
+- Does having more that 100% sRGB is actually better?
+In this [Reddit](https://www.reddit.com/r/Monitors/comments/c83w47/is_125_srgb_better_than_100_srgb/) post, you'll find some comments of users on why it might be worth it, or maybe not.
+
 - What would you get if you had $400 to spend on a monitor for editing?
 In this [Reddit](https://www.reddit.com/r/VideoEditing/comments/j40z19/if_you_had_400_to_spend_on_a_monitor_for_editing/) discussion, people recomend a monitor with a good color spectrum, which is typycally needed for accurrate color grading. (or at least that's what I think)
 > I’m a fan of the ProArt series by Asus. Their $300 27” 2k monitor is supposed to be really color accurate for the price range. Obviously it’s not HDR or P3 but I’m pretty sure it’s ~1.5 delta ranges for all of sRGB.
