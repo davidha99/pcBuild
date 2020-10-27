@@ -104,6 +104,11 @@ Probably when picking a motherboard you will see a dedicated slot for the audio 
 
 
 ## Power Supply
+###### Specific wattage.
+- Looking for a good 850w 80+ gold? In this [reddit](https://www.reddit.com/r/buildapc/comments/avqx5t/whats_a_good_psu_brand_for_850w_80_plus_gold/) article you'll get good recomendations, tho the aim is set to specific 850w, in the post youll find redditors commenting good psu brands and some advices. 
+
+> Brand is rather irrelevant as it is not an indication of quality. It comes down to the exact PSU. Check jonnyguru for PSU reviews. - redditor
+
 
 ## Cooling
 ###### Fan Cooling
