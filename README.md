@@ -161,7 +161,27 @@ Probably when picking a motherboard you will see a dedicated slot for the audio 
 
 
 ## Power Supply
-###### Specific wattage.
+###### My 5 way method into learnig everything about power supplies.
+
+IMO trying to calculate the wattage you need for your system can be quite tedious, althought PCPartPicker gives you a good stimate into how much you'll need, you'll end up just making desitions based into what a third party recommeds, for this I'll probably say that is worth spending some time into learning abut PSU, its the most important part of your system, is the one that dictaminates wether your system will have a long lifespan or if its disposable.
+
+1. Try fast reading this [PSU's glossary](https://www.gamersnexus.net/dictionary/6-psu?lang=en&limit=15&start=15) to kind of like dive you into what you'll probably be hearing. So the faster you understand what the terms mean the better, but for simplicity just try reading once, in the 2nd step we will reaffirm the basics so you'll be good to go.
+
+2. Watch *carefully* [this](https://www.youtube.com/watch?v=lXku-gsdyok&ab_channel=JayzTwoCents) and [this](https://www.youtube.com/watch?v=HSeIlzVxgJ4&ab_channel=GregSalazar] youtube videos. Both talk abouth the same, and even tho its almost the same info, perhaps changing teacher will help you reaffirm what you've learned. Both videos feature the basics of what to concider into buying a PSU, they both include things like wattage, modularity, efficiency and a couple of math. So, try your best to understand what its being explaned. 
+
+*Notes: If you have a hard time understanding what the video is saying, I wouldn't suggest going back to the glossary, I rather recommend looking for specific videos of the desired topic, lets say you dont get what the PSU efficiency stands for, so go ahead and watch some videos, I'm sure by this point you'll pretty much get everything cool.*
+
+3. Now, by this point you'll probably be good to go to buy a PSU, but if you really really whant to get that level of understanding in which just by looking at the specs you can determine if the desired module will be a good option. You'll have to re-read the first step and really dive into learning those terms. 
+
+4. After really understanding what the heck is going on, you will be able to fully understand this video[Wasting Money on Power Supplies: How Many Watts You Need for a PC PSU (2020)](https://www.youtube.com/watch?v=X_wtoCBahhM&ab_channel=GamersNexus), it's from our PC god: GamersNexus better known as "Tech Jesus", he really knows about what he's talking about. Check the video.. you'll be surprised how much money you can save from picking up a decent but "needs-specific" power supply.
+
+5. You might be wondering: "Is it still more I can find about PSUs" the answere is yes. Each power supply and I mean each specific model of power supply (even tho the wattage is the same and the eficciency is labeled the same) is different from other. So imagine you are hunting some PSU into NewEgg, so you're about to make the purchase, but I say WAIT! It is always better to take a look into the reviews of that particular model. But, how can I achieve that?, can I relly into what people say in the coment section below a video? or even in the "reviews" window in the NewEggs page? My answere is: **JhonnyGuru** yes, nowadays he is still the best when it comes into reviewing PSUs, that guy has been reviewing PSUs form like 20 years (no kidding). If there is someone I'll trust, he is the answere! 
+
+
+
+###### Recomendations :)
+*In this section you'll find some recomendations for specific needs, as I said before, its better to go into Jhonny's reviews for the best posible way of getting a good performance unit and saving some bucks at the time. But I also have to say that there are people in the internet that had already did that, so the people's recommendations are Jhonny-based" I mean, you can always check the review by yourself, but let's imagine you have to make a desition bc a unit is on sale... I'll say "take a look into this section, there is no way you can make a mistake".
+
 - Looking for a good 850w 80+ gold? In this [reddit](https://www.reddit.com/r/buildapc/comments/avqx5t/whats_a_good_psu_brand_for_850w_80_plus_gold/) article you'll get good recomendations, tho the aim is set to specific 850w, in the post youll find redditors commenting good psu brands and some advices. 
 
 > Brand is rather irrelevant as it is not an indication of quality. It comes down to the exact PSU. Check jonnyguru for PSU reviews. - redditor
