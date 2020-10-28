@@ -1,6 +1,9 @@
 # pcBuild
 
 ## CPU
+Important terms 
+
+- [AVX instructions](https://hardzone.es/reportajes/que-es/instrucciones-avx-procesador/)  
 
 ###### CPU Reviews
 - Not sure of buying a AMD's 3000 series or Intel's 9000s?
@@ -21,11 +24,65 @@ Here at min [4:21](https://www.youtube.com/watch?v=stM2CPF9YAY&list=WL&index=5&t
 [Here](https://steamcommunity.com/discussions/forum/11/1638669204740559442/) its a solution for the **problem** _"Some AMD B450 chipset motherboards may need a BIOS update prior to using Matisse CPUs. Upgrading the BIOS may require a different CPU that is supported by older BIOS revisions."_
 
 ###### CPU Overcl@cking
-- If I overclock my CPU how long will it last?
+- If I overclock my CPU how long will it last? In this [forum](https://forums.tomshardware.com/threads/if-i-overclock-my-cpu-how-long-will-it-last.2802893/) you will find numerous advices and experiences form overclocking users, that discuss several factors that determine CPU's lives.
 
-In this [forum](https://forums.tomshardware.com/threads/if-i-overclock-my-cpu-how-long-will-it-last.2802893/) you will find numerous advices and experiences form overclocking users, that discuss several factors that determine CPU's lives.
+- Does running your CPU at 100% usage decrease its expected lifetime? In this [quora forum](https://www.quora.com/Does-running-your-CPU-at-100-usage-decrease-its-expected-lifetime) you have some explanations into why having 100% is harmfull. Althought, having 100% per se isnt the problem, the problem is that 100% generates more energy and therefore the cpu gets hotter. So, if you are able to maintain the CPU at cool temps, theorically your good to go.
+
 
 ## Memory 
+
+###### Speed (bandwidht)
+
+This is a really really controvertial topic, for simplicity I'll only put the info I've gathered.
+
+- [Does Ram Speed REALLY matter? You might be surprised](https://www.youtube.com/watch?v=vjbNhCHwlBo&t=702s&ab_channel=JayzTwoCents) In this video, JayTwoCents makes couple of benchmarks between a default speed-based RAM at 2400MHz and an overclocked 3600MHz memory. The conclusion of the video is always "it depends" althought in some games we can get a 30+ in fps, in other ones might just be 5+ fps.
+
+
+###### Timings (AKA "latency")
+
+- What RAM timings mean? [Here](https://www.howtogeek.com/303455/how-does-ram-speed-and-timing-affect-my-pcs-performance/) you have a pretty basic article showing what latency means. But its worth saying that the article does summarize very well the things, here is some sentences that really hit my attention.
+
+> While faster, lower latency RAM will indeed increase the technical performance of your computer, it works at such a fundamental level that it’s almost impossible for us flesh-and-blood humans to actually appreciate the difference. 
+
+> Faster RAM will give your PC better performance in certain specific benchmarks, but in terms of actual benefit to most users, having more RAM available is almost always better than having faster RAM
+
+To prove the preivious point, [here](https://www.youtube.com/watch?v=kUFWalEf31w&ab_channel=LinusTechTips) you have again a solid Linus video, where you can actually see if having more RAM is actually better to each specific tasking. Also, something worth noticing was one guy in the comment section of the video stating:
+
+[![Screen-Shot-2020-10-28-at-12-11-45-AM.png](https://i.postimg.cc/kXpXQ47n/Screen-Shot-2020-10-28-at-12-11-45-AM.png)](https://postimg.cc/2VnDmCqJ)
+
+
+Does RAM speed REALLY matter? This is the typical [Linus video](https://www.youtube.com/watch?v=D_Yt4vSZKVk&ab_channel=LinusTechTips) trying to solve the answere **Does RAM speed REALLY matter?** enigma. Its a pretty normal video, couple of benchmarks in gaming and in system (just the typical video you will spect from Linus) but his conclution was the thing indeed hit me. Check out what he said...
+
+> "Going back to look at the total possible improvment an a bare-bones JEDEC ~2133MHz to the fastest one we tested, the conclusion becomes crystal clear: 4.7% for 64$ more, without any warranty that it will actually work, means that we wouldn't recomended it. Unless you are out of stuff to spent money on that will give you more meaningfull performance or usability improvements, and you have not only the time and know how to thinker with it, but also the patience to drop everything and deal with it when something isn't working. And this is specially true if you are using the latest and greatest platform with that fastest and shinniest RAM" - Linus Tech Tips
+
+
+
+Now, in [this](https://www.reddit.com/r/intel/comments/ax96ie/best_ram_for_i79700k/) reddit post, you'll pretty much the same... Most users state that altought having **faster** RAM will make your existance better and having a RAM with more **bandwidht**, will make nothing to no difference in gameplay...
+
+> 3000-3200mhz is the price to performance king. Anything above that is generally just a giant wall of diminishing returns. - Redditor
+
+> You'll get small gains in FPS up to ~3466, but IMO it wouldn't be worth the cost of upgrading. 
+
+
+###### Testing RAM.
+How to test RAM? Ram is one of those components that is lucky dependent, it all depends from the manufacturer. So, you might wanna make sure your memory is working perfectly, so if you find an error you can probably use the warranty. In this [article](https://www.tomshardware.com/how-to/how-to-test-ram) you'll get a guide into multiple ways you can test your precious memory.   
+
+###### Channels.
+
+- What's better 4x8GB or 2x16GB RAM? There is a common misconception in which people thinks that having 2x16GB is better because that way wou'll take advantage of the dual channel. But, it seems to be that even if you are using 4x8GB you'll still be in dual channel. In this [reddit article](https://www.reddit.com/r/buildapc/comments/5ap2f2/whats_better_4x8gb_or_2x16gb_ram/ people) 
+
+> They'll pretty much be the same, "2 dual channel" isn't how it works. You'll still be on dual channel with 2x16GB DIMMS or 4x8GB DIMMs in a dual channel board/CPU. - redditor.
+
+- Sigle rank or Double rank?
+
+The thing gets more controvertial, although people claim it'll be "pretty much the same", i've found [this](https://www.youtube.com/watch?v=twaNbiYOL9A&ab_channel=hYPERs) youtube video showing comparison benchmarks between 4x8GB and 16x2GB, **I'm not sure** if the aim of the video is to show how there is pretty much no difference between 4x8 double channel or 16x2 double channel rather than aiming to the difference between **single and double rank** maybe its something different, but I still need to dive more into it. 
+
+> a dog running on 4 legs is faster then human running on 2 legs. unless you are Usain Bolt XD - youtube comment 
+
+
+
+
+
 ###### AMD.
 
 ###### Intel. 
